@@ -56,7 +56,7 @@ export default function ConfessionIntro({ onComplete }) {
 
             <div className="space-y-6">
               <h2 className="text-2xl md:text-4xl font-bold bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent">
-                I’ve been hiding something sweet...
+                I’ve been carrying something in my heart…
               </h2>
 
               <motion.p
@@ -64,8 +64,9 @@ export default function ConfessionIntro({ onComplete }) {
                 transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY }}
                 className="text-base md:text-lg text-pink-200 leading-relaxed"
               >
-                There’s a little secret I’ve been saving for the right moment.
-                Want to know what it is? 💖
+                There’s something I need to say to you…
+                Something honest, something from deep inside my heart.
+                Will you listen? 💔
               </motion.p>
             </div>
 
@@ -80,7 +81,7 @@ export default function ConfessionIntro({ onComplete }) {
             >
               <span className="relative z-10 flex items-center gap-2">
                 <Heart className="w-5 h-5 fill-current" />
-                Show me
+                Hear me out
                 <Heart className="w-5 h-5 fill-current" />
               </span>
               <div className="absolute inset-0 bg-gradient-to-r from-pink-400 to-purple-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
