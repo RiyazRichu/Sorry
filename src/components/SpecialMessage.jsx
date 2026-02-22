@@ -13,11 +13,14 @@ export default function SpecialMessage({ onComplete }) {
 
   const fullMessage = `My Dearest Love,
 
-From the moment our eyes first met, I knew my life would never be the same. You walked into my world like a beautiful dream, bringing light to places I didn't even know were dark.
+I have been doing a lot of thinking...and the truth is, I am deeply sorry for the pain I caused you. Not a single day passes without me wishing I could go back and make things right.
 
-Every day with you feels like magic. Your smile brightens my darkest days, your laugh is the sweetest melody I've ever heard, and your love is the greatest gift I could ever receive.
+You are someone very precious to me, and it hurts knowing that I was the reason for even a little of your sadness. I am not asking you to forget anything. I just hope...someday..your heart might find a little space to forgive me.
 
 I want to spend forever making you smile, forever holding your hand, forever being the reason you believe in love.
+
+Until then,
+I will be here, quietly caring for you, always.
 
 Will you be mine forever and always?
 
